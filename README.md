@@ -29,4 +29,12 @@ It implements:
 - If current accuracy is better, than save its hyperparameter as JSON-File
 - Saves the best model and a visual representation of the best model
 
+## Examples
+Some examples of the logger:
+![Logger](https://github.com/BadeJoey/Time-Series-Convolution-Classification/blob/main/images/logger.JPG)
 
+The saved best Hyperparameter with its accuracy as JSON:
+![JSON](https://github.com/BadeJoey/Time-Series-Convolution-Classification/blob/main/images/json.JPG)
+
+The visual representation of the best model (partly):
+![Part of Model](https://github.com/BadeJoey/Time-Series-Convolution-Classification/blob/main/images/ausschnitt_model.JPG)
