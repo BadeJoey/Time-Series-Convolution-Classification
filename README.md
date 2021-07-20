@@ -1,5 +1,5 @@
 # Time-Series-Convolution-Classification
-### Deutsche Info
+### Deutsche Info 🇩🇪
 
 Dies ist eine Implementierung eines Convolutional-Modells für eine Time-Series-Klassifzierung.
 
@@ -13,7 +13,9 @@ Es wird implementiert:
 - Ist der aktuelle Run besser, werden seine Hyperparameter in einer JSON-Datei gespeichert
 - Speichern des besten Modells und einer visuellen Repräsentation des besten Modells
 
-### English Info
+---
+
+### English Info 🇺🇸
 
 This is a Convolution Model for a Time Series Classification.
 
