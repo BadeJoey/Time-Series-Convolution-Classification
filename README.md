@@ -1,2 +1,18 @@
 # Time-Series-Convolution-Classification
-This is a Convolution Classification Model for a Time Series. It includes a logger and saves the best parameter over multiple runs. It has a Normal, GridSearch and RandomSearch implementation. It also saves a visual representation of the best model so that you don't only have the best Hyperparameter but also the model structure.
+### Deutsche Info
+
+Dies ist eine Implementierung eines Convolutional-Modells für eine Time-Series-Klassifzierung.
+
+Es wird implementiert:
+- Ein Logger, der die besten Hyperparameter für jeden Run speichert
+- 3 verschiedene Modi: Normal, GridSearch and RandomSearch
+- Speichern des besten Modells und einer visuellen Repräsentation des besten Modells
+
+### English Info
+
+This is a Convolution Model for a Time Series Classification.
+
+It implements:
+- A logger that saves the best Hyperparameter of every run
+- 3 modes of operation: Normal, GridSearch and RandomSearch
+- Saves the best model and a visual representation of the best model
