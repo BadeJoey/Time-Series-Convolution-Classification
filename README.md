@@ -1,6 +1,11 @@
-# Time-Series-Convolution-Classification
-### Deutsche Info 🇩🇪
+#### Links:
+- [Die deutsche Beschreibung](#deutsche-info)
+- [The english description](#english-info)
+- [Examples](#examples)
 
+# Time-Series-Convolution-Classification
+### Deutsche Info
+🇩🇪
 Dies ist eine Implementierung eines Convolutional-Modells für eine Time-Series-Klassifzierung.
 
 Es wird implementiert:
@@ -15,8 +20,8 @@ Es wird implementiert:
 
 ---
 
-### English Info 🇺🇸
-
+### English Info
+🇺🇸
 This is a Convolution Model for a Time Series Classification.
 
 It implements:
